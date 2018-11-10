@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). ## Weather-App Tutorial This is a basic weather app tutorial by [Robert Michael Welan](https://github.com/robwelan).
+*This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). 
+
+## Weather-App
+
+This is a basic weather app using instructions from a tutorial by [Robert Michael Welan](https://github.com/robwelan).
 
 You can find a deployed version of this project here:  
 
@@ -17,5 +21,5 @@ You can find a deployed version of this project here:
  - [Semantic UI React](https://react.semantic-ui.com/introduction)
  - [Weather Icons](https://github.com/erikflowers/weather-icons) (Found here on npm/yarn: [weather-icons-tmp](https://www.npmjs.com/package/weather-icons-tmp)) 
  
- ## On License for Code: - MIT Licence
+ #### On License for Code: - MIT Licence
 
