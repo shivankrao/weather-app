@@ -1,4 +1,4 @@
-**This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). 
+#### This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). 
 
 ## Weather-App
 
@@ -21,5 +21,5 @@ You can find a deployed version of this project here:
  - [Semantic UI React](https://react.semantic-ui.com/introduction)
  - [Weather Icons](https://github.com/erikflowers/weather-icons) (Found here on npm/yarn: [weather-icons-tmp](https://www.npmjs.com/package/weather-icons-tmp)) 
  
- #### On License for Code: - MIT Licence
+ #### Licensed by MIT
 
