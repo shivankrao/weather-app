@@ -3,15 +3,34 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/prop-types": "^15.5.6",
+    "axios": "^0.18.0",
+    "beaufort-scale": "^1.0.3",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "locale2": "^2.3.1",
+    "npx": "^10.2.0",
+    "prop-types": "^15.6.2",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-html-parser": "^2.0.2",
+    "react-scripts": "2.1.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.83.0",
+    "weather-icons-tmp": "0.0.1",
+    "yarn": "^1.12.3"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node server.js",
+    "dev": "concurrently \"nodemon server.js\" \"cd ./client  && npm start \" ",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cd client && npm install && npm run build"
+  },
+   "engines": {
+    "node": "11.1.0"
   },
   "eslintConfig": {
     "extends": "react-app"
