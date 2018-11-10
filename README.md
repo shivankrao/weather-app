@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). ## Weather-App Tutorial This is a basic weather app tutorial by [Robert Michael Welan](https://github.com/robwelan).
 
-Completion You can find a deployed version of this project here: [https://weather.creatureoftech.com](https://weather.creatureoftech.com) 
+You can find a deployed version of this project here:  
 
 
 
